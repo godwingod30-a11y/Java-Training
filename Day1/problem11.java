@@ -1,5 +1,4 @@
-public class problem11 {
-
+class Test {
     Test() {
         System.out.println("Constructor Executed");
     }
@@ -7,5 +6,4 @@ public class problem11 {
     public static void main(String[] args) {
         new Test();
     }
-
 }
