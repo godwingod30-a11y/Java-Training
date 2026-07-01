@@ -1,5 +1,4 @@
 public class problem9 {
-
     String name = "Harini";
 
     public static void main(String[] args) {
