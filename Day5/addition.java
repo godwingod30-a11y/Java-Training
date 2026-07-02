@@ -13,5 +13,6 @@ public class addition {
         int b = sc.nextInt();
 
         System.out.println("Sum = " + (a + b));
+        sc.close();
     }
 }
