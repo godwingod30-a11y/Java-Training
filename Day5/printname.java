@@ -10,5 +10,6 @@ public class printname {
         String name = sc.nextLine();
 
         System.out.println("Hello " + name);
+        sc.close();
     }
 }
